@@ -1,0 +1,49 @@
+This Is A Small Android App I Made Because Keeping Track Of Chores Became More Of A Hastle Then It Needed To Be, So I Made Rouge Chores
+
+If You Want To Download It, The Downloads Are In The Releases Tab To The Right Of The Main Page
+
+To Use It, Simply Install, Change The Chores Json File, It Is Formatted Like This
+the days are 0-6 monday-sunday
+
+{
+  "chores": [
+    {
+      "dateMarkedOff": "",
+      "days": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "description": "Description",
+      "id": "chore1",
+      "isSwapVisible": false,
+      "lastSwapped": "",
+      "markedOff": false,
+      "mode": "repeat",
+      "title": "Title"
+    },
+    {
+      "dateMarkedOff": "",
+      "days": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "description": "Description",
+      "id": "chore2",
+      "isSwapVisible": false,
+      "lastSwapped": "",
+      "markedOff": false,
+      "mode": "repeat",
+      "title": "Title"
+    }
+  ]
+}
