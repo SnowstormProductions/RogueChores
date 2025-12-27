@@ -2,8 +2,9 @@ This Is A Small Android App I Made Because Keeping Track Of Chores Became More O
 
 If You Want To Download It, The Downloads Are In The Releases Tab To The Right Of The Main Page
 
-To Use It, Simply Install, Change The Chores Json File, It Is Formatted Like This
+To Use It, Simply Install, Modify The Chores Json File, It Is Formatted Like This
 the days are 0-6 monday-sunday
+do not change dateMarkedOff, lastSwapped, or markedOff
 
 {
   "chores": [
